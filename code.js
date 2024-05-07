@@ -1,3 +1,4 @@
+// I worked with Tyler Laceby on the first third of this, but I finished the code on my own later. 
 function insertionSortReverse(array) {
     for(let i = array.length-2; i >= 0; i--) {
         let val = array[i];
